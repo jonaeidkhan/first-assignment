@@ -1,0 +1,96 @@
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+.flexible-contant{
+    display: flex;
+}
+.half-width{
+    width: 40%;
+    margin: 5%;
+}
+.half-width img{
+    width: 80%;
+    margin-top: -30px;
+}
+h1{
+    font-size: 60px;
+}
+.heading-color{
+    color: #FFAD5A;
+}
+.left-border{
+    border-left: 3px solid #FF5959;
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    background: #FF5959;
+    padding: 10px 20px;
+    border-radius: 15px;
+
+}
+.mission-area{
+    clear: both;
+}
+.main-mission{
+    display: flex;
+}
+h2{
+    text-align: center;
+    font-size: 48px;
+    font-weight: bold;
+    color: #13103A;
+}
+.main-mission img{
+    width: 30%;
+}
+.three-colum{
+    height: 300px;
+    width: 27%;
+    border-radius: 15px;
+    margin: 3%;
+    padding: 10px;
+}
+.color-1{
+    background: #4F9DA6;
+}
+.color-2{
+    background: #FFEEEE;
+}
+.color-3{
+    background: #FFF4D6;
+}
+.display-flex{
+    display: flex;
+}
+.develop-area{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 30%;
+}
+.projects-area{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 20%;
+}
+footer{
+    background: #000;
+    padding: 10px;
+}
+footer h1{
+    font-family: 'Lobster', cursive;
+    font-size: 36px;
+    color: white;
+    text-align: center;
+}
+.footer-year{
+    color: #FF5959;
+}
+footer p{
+    font-size: 14px;
+    text-align: center;
+    color: white;
+}
